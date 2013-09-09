@@ -1,0 +1,16 @@
+[color]
+	diff	= auto
+	branch	= auto
+	status	= auto
+
+[user]
+	name	= Romain LAMAISON
+	email	= romain.lamaison@quanta-computing.com
+
+[alias]
+	ci	= commit -am
+	st 	= status
+	co	= checkout
+	br	= branch
+[push]
+	default = simple
